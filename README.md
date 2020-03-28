@@ -2,8 +2,8 @@
 Installation OSX Catalina on GA-Z270X-UD5
 
 28-03-2020
->UPDATE for Catalina 10.15.4
-Clover update to 5017
+>UPDATE for Catalina 10.15.4\
+Clover update to 5017\
 Update use of my USB port with UUIC
 \
 
