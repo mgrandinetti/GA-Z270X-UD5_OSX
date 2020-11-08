@@ -2,9 +2,9 @@
 Installation OSX Catalina on GA-Z270X-UD5
 
 08-11-2020
->UPDATE TO BIGSUR
-Clover up to 5126
-Opencore beta 6.4
+>UPDATE TO BIGSUR\
+Clover up to 5126\
+Opencore beta 6.4\
 USBMAP
 
 
